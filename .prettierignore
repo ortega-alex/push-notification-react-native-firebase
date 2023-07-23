@@ -1,0 +1,7 @@
+dist
+package-lock.json
+__tests__
+_bundle
+android
+ios
+node_modules

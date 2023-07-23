@@ -1,0 +1,6 @@
+dist
+__tests__
+_bundle
+android
+ios
+node_modules
